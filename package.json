@@ -1,0 +1,30 @@
+{
+  "name": "ch25",
+  "version": "1.0.0",
+  "description": "Chapter 25 homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starfoxx5/ch25.git"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "Homework",
+    "JavaScript"
+  ],
+  "author": "Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starfoxx5/ch25/issues"
+  },
+  "homepage": "https://github.com/starfoxx5/ch25#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
